@@ -10,8 +10,34 @@ class PageController extends Controller
     {
         return view('main');
     }
-    public function welcome()
+
+    public function about()
     {
-        return view('welcome', ['name' =>"<script>alert('salom dostim')</script>"]);
+        return view('about');
+    }
+
+    public function menu()
+    {
+        return view('menu');
+    }
+
+    public function team()
+    {
+        return view('team');
+    }
+
+    public function servis()
+    {
+        return view('servis');
+    }
+
+    public function testimonial()
+    {
+        return view('testimonial');
+    }
+
+    public function contact()
+    {
+        return view('contact');
     }
 }
