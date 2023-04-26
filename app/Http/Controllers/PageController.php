@@ -16,16 +16,6 @@ class PageController extends Controller
         return view('about');
     }
 
-    public function menu()
-    {
-        return view('menu');
-    }
-
-    public function team()
-    {
-        return view('team');
-    }
-
     public function servis()
     {
         return view('servis');

@@ -1,6 +1,6 @@
 <x-layouts.main>
     <x-slot:title>
-        Bizning oshpazlarimiz
+
     </x-slot:title>
 <!-- Team Start -->
 <div class="container-fluid py-5">
