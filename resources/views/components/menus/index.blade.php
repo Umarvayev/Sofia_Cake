@@ -31,82 +31,12 @@
                                     <div class="flex-shrink-0">
                                         <img class="img-fluid" src="img/cake-1.jpg" alt=""
                                             style="width: 150px; height: 85px;">
+
                                         <h4 class="bg-dark text-primary p-2 m-0">$99.00</h4>
-                                    </div>
-                                    <div
-                                        class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Birthday Cake</h5>
-                                        <span>Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit
-                                            justo</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="d-flex h-100">
-                                    <div class="flex-shrink-0">
-                                        <img class="img-fluid" src="img/cake-1.jpg" alt=""
-                                            style="width: 150px; height: 85px;">
-                                        <h4 class="bg-dark text-primary p-2 m-0">$99.00</h4>
-                                    </div>
-                                    <div
-                                        class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Birthday Cake</h5>
-                                        <span>Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit
-                                            justo</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="d-flex h-100">
-                                    <div class="flex-shrink-0">
-                                        <img class="img-fluid" src="img/cake-1.jpg" alt=""
-                                            style="width: 150px; height: 85px;">
-                                        <h4 class="bg-dark text-primary p-2 m-0">$99.00</h4>
-                                    </div>
-                                    <div
-                                        class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Birthday Cake</h5>
-                                        <span>Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit
-                                            justo</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="d-flex h-100">
-                                    <div class="flex-shrink-0">
-                                        <img class="img-fluid" src="img/cake-1.jpg" alt=""
-                                            style="width: 150px; height: 85px;">
-                                        <h4 class="bg-dark text-primary p-2 m-0">$99.00</h4>
-                                    </div>
-                                    <div
-                                        class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Birthday Cake</h5>
-                                        <span>Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit
-                                            justo</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="d-flex h-100">
-                                    <div class="flex-shrink-0">
-                                        <img class="img-fluid" src="img/cake-1.jpg" alt=""
-                                            style="width: 150px; height: 85px;">
-                                        <h4 class="bg-dark text-primary p-2 m-0">$99.00</h4>
-                                    </div>
-                                    <div
-                                        class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Birthday Cake</h5>
-                                        <span>Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit
-                                            justo</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="d-flex h-100">
-                                    <div class="flex-shrink-0">
-                                        <img class="img-fluid" src="img/cake-1.jpg" alt=""
-                                            style="width: 150px; height: 85px;">
-                                        <h4 class="bg-dark text-primary p-2 m-0">$99.00</h4>
+                                        <div>
+                                            <button class="btn btn-primary">Edit</button>
+                                            <button class="btn btn-danger">delete</button>
+                                        </div>
                                     </div>
                                     <div
                                         class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
@@ -135,160 +65,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-6">
-                                <div class="d-flex h-100">
-                                    <div class="flex-shrink-0">
-                                        <img class="img-fluid" src="img/cake-2.jpg" alt=""
-                                            style="width: 150px; height: 85px;">
-                                        <h4 class="bg-dark text-primary p-2 m-0">$99.00</h4>
-                                    </div>
-                                    <div
-                                        class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Wedding Cake</h5>
-                                        <span>Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit
-                                            justo</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="d-flex h-100">
-                                    <div class="flex-shrink-0">
-                                        <img class="img-fluid" src="img/cake-2.jpg" alt=""
-                                            style="width: 150px; height: 85px;">
-                                        <h4 class="bg-dark text-primary p-2 m-0">$99.00</h4>
-                                    </div>
-                                    <div
-                                        class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Wedding Cake</h5>
-                                        <span>Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit
-                                            justo</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="d-flex h-100">
-                                    <div class="flex-shrink-0">
-                                        <img class="img-fluid" src="img/cake-2.jpg" alt=""
-                                            style="width: 150px; height: 85px;">
-                                        <h4 class="bg-dark text-primary p-2 m-0">$99.00</h4>
-                                    </div>
-                                    <div
-                                        class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Wedding Cake</h5>
-                                        <span>Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit
-                                            justo</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="d-flex h-100">
-                                    <div class="flex-shrink-0">
-                                        <img class="img-fluid" src="img/cake-2.jpg" alt=""
-                                            style="width: 150px; height: 85px;">
-                                        <h4 class="bg-dark text-primary p-2 m-0">$99.00</h4>
-                                    </div>
-                                    <div
-                                        class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Wedding Cake</h5>
-                                        <span>Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit
-                                            justo</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="d-flex h-100">
-                                    <div class="flex-shrink-0">
-                                        <img class="img-fluid" src="img/cake-2.jpg" alt=""
-                                            style="width: 150px; height: 85px;">
-                                        <h4 class="bg-dark text-primary p-2 m-0">$99.00</h4>
-                                    </div>
-                                    <div
-                                        class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Wedding Cake</h5>
-                                        <span>Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit
-                                            justo</span>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
                     <div id="tab-3" class="tab-pane fade show p-0">
                         <div class="row g-3">
-                            <div class="col-lg-6">
-                                <div class="d-flex h-100">
-                                    <div class="flex-shrink-0">
-                                        <img class="img-fluid" src="img/cake-3.jpg" alt=""
-                                            style="width: 150px; height: 85px;">
-                                        <h4 class="bg-dark text-primary p-2 m-0">$99.00</h4>
-                                    </div>
-                                    <div
-                                        class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Custom Cake</h5>
-                                        <span>Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit
-                                            justo</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="d-flex h-100">
-                                    <div class="flex-shrink-0">
-                                        <img class="img-fluid" src="img/cake-3.jpg" alt=""
-                                            style="width: 150px; height: 85px;">
-                                        <h4 class="bg-dark text-primary p-2 m-0">$99.00</h4>
-                                    </div>
-                                    <div
-                                        class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Custom Cake</h5>
-                                        <span>Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit
-                                            justo</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="d-flex h-100">
-                                    <div class="flex-shrink-0">
-                                        <img class="img-fluid" src="img/cake-3.jpg" alt=""
-                                            style="width: 150px; height: 85px;">
-                                        <h4 class="bg-dark text-primary p-2 m-0">$99.00</h4>
-                                    </div>
-                                    <div
-                                        class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Custom Cake</h5>
-                                        <span>Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit
-                                            justo</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="d-flex h-100">
-                                    <div class="flex-shrink-0">
-                                        <img class="img-fluid" src="img/cake-3.jpg" alt=""
-                                            style="width: 150px; height: 85px;">
-                                        <h4 class="bg-dark text-primary p-2 m-0">$99.00</h4>
-                                    </div>
-                                    <div
-                                        class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Custom Cake</h5>
-                                        <span>Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit
-                                            justo</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="d-flex h-100">
-                                    <div class="flex-shrink-0">
-                                        <img class="img-fluid" src="img/cake-3.jpg" alt=""
-                                            style="width: 150px; height: 85px;">
-                                        <h4 class="bg-dark text-primary p-2 m-0">$99.00</h4>
-                                    </div>
-                                    <div
-                                        class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
-                                        <h5 class="text-uppercase">Custom Cake</h5>
-                                        <span>Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit
-                                            justo</span>
-                                    </div>
-                                </div>
-                            </div>
                             <div class="col-lg-6">
                                 <div class="d-flex h-100">
                                     <div class="flex-shrink-0">
@@ -326,8 +106,8 @@
                     <p class="text-white mb-4">Eirmod sed tempor lorem ut dolores sit kasd ipsum. Dolor ea et dolore et
                         at sea ea at dolor justo ipsum duo rebum sea. Eos vero eos vero ea et dolore eirmod et. Dolores
                         diam duo lorem. Elitr ut dolores magna sit. Sea dolore sed et.</p>
-                    <a href="" class="btn btn-primary border-inner py-3 px-5 me-3">Shop Now</a>
-                    <a href="" class="btn btn-dark border-inner py-3 px-5">Read More</a>
+                    <a href="/" class="btn btn-primary border-inner py-3 px-5 me-3">Shop Now</a>
+                    <a href="/" class="btn btn-dark border-inner py-3 px-5">Read More</a>
                 </div>
             </div>
         </div>

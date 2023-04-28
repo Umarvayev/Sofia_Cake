@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\CooksController;
 use App\Http\Controllers\MenuController;
 use App\Http\Controllers\PageController;
 use App\Http\Controllers\TeamController;
@@ -31,7 +32,8 @@ Route::resource('menus', MenuController::class);
 // Route::put('/menus/{post}/edit', [MenuController::class, 'update'])->name('menus.update');
 // Route::delete('/menus/{post}/destroy', [MenuController::class, 'delete'])->name('menus.delete');
 
-Route::resource('teams', TeamController::class);
+// Route::resource('teams', TeamController::class);
+Route::get('/teams', [TeamController::class, 'index'])->name('teams.index');
 // Route::get('/teams', [TeamController::class, 'index'])->name('teams.index');
 // Route::get('/teams/{post}', [TeamController::class, 'show'])->name('teams.show');
 // Route::get('/teams/create', [TeamController::class, 'create'])->name('teams.create');
