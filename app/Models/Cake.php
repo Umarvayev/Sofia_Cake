@@ -2,10 +2,16 @@
 
 namespace App\Models;
 
-use Illuminate\Database\Eloquent\Factories\HasFactory;
+use App\Models\Menus;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
 
 class Cake extends Model
 {
     use HasFactory;
+
+    public function menu()
+    {
+        return $this->belongsTo(Menus::class);
+    }
 }

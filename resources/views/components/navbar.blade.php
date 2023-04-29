@@ -11,7 +11,7 @@
         <div class="navbar-nav ms-auto mx-lg-auto py-0">
             <a href="/" class="nav-item nav-link active">Home</a>
             <a href="{{ route('about') }}" class="nav-item nav-link">About Us</a>
-            <a href="{{ route('menus.index') }}" class="nav-item nav-link">Menu & Pricing</a>
+            <a href="{{ url('menus') }}" class="nav-item nav-link">Menu & Pricing</a>
             <a href="{{ route('teams.index') }}" class="nav-item nav-link">Master Chefs</a>
             <div class="nav-item dropdown">
                 <a href="/" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
